@@ -16,7 +16,7 @@ You are required to help the manager to predict the right group of the new custo
 
 ![nn](https://user-images.githubusercontent.com/75234991/189541018-dc233ce7-8d92-483d-aa8c-878d2ac664c4.svg)
 
-<br><br><br><br>
+<br><br>
 
 ## DESIGN STEPS
 
