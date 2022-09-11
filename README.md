@@ -214,6 +214,9 @@ print(x_single_prediction)
 
 print(le.inverse_transform(x_single_prediction))
 ```
+
+<br><br>
+
 ## DATASET INFORMATION
 
 ![188649793-d5045c93-f721-47fd-b504-021494fcb256](https://user-images.githubusercontent.com/75234991/189541313-1e96b1c9-8c90-440e-923a-8111236f4789.png)
