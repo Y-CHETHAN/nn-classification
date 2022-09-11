@@ -16,8 +16,6 @@ You are required to help the manager to predict the right group of the new custo
 
 ![nn](https://user-images.githubusercontent.com/75234991/189541018-dc233ce7-8d92-483d-aa8c-878d2ac664c4.svg)
 
-<br><br>
-
 ## DESIGN STEPS
 
 ### Step 1:
@@ -36,8 +34,6 @@ The Sequential model is then build using 1 input, 3 dense layers(hidden) and, ou
 The model is then complied and trained with the data. A call back method is also implemented to prevent the model from overfitting.
 ### Step 8:
 Once the model is done training, we validate and use the model to predict values.
-
-<br><br><br>
 
 ## PROGRAM
 
@@ -215,8 +211,6 @@ print(x_single_prediction)
 print(le.inverse_transform(x_single_prediction))
 ```
 
-<br><br><br>
-
 ## DATASET INFORMATION
 
 ![188649793-d5045c93-f721-47fd-b504-021494fcb256](https://user-images.githubusercontent.com/75234991/189541313-1e96b1c9-8c90-440e-923a-8111236f4789.png)
@@ -234,8 +228,6 @@ print(le.inverse_transform(x_single_prediction))
 ### Confusion Matrix
 
 <img width="123" alt="image" src="https://user-images.githubusercontent.com/75234991/189541392-51bb088c-82a7-4f36-9b2b-c061cb541c75.png">
-
-<br>
 
 ### New Sample Data Prediction
 
