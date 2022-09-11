@@ -37,6 +37,8 @@ The model is then complied and trained with the data. A call back method is also
 ### Step 8:
 Once the model is done training, we validate and use the model to predict values.
 
+<br><br><br>
+
 ## PROGRAM
 
 ```python
