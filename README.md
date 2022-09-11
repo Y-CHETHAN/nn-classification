@@ -235,7 +235,7 @@ print(le.inverse_transform(x_single_prediction))
 
 <img width="123" alt="image" src="https://user-images.githubusercontent.com/75234991/189541392-51bb088c-82a7-4f36-9b2b-c061cb541c75.png">
 
-<br><br>
+<br>
 
 ### New Sample Data Prediction
 
