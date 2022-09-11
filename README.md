@@ -215,7 +215,7 @@ print(x_single_prediction)
 print(le.inverse_transform(x_single_prediction))
 ```
 
-<br><br>
+<br><br><br>
 
 ## DATASET INFORMATION
 
